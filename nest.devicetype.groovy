@@ -193,12 +193,6 @@ metadata {
 		main(["temperature", "thermostatOperatingState", "humidity"])
 
 		// ============================================================
-		// Slider or Buttons...
-		// To expose buttons, comment out the first detials line below and uncomment the second details line below.
-		// To expose sliders, uncomment the first details line below and comment out the second details line below.
-
-		//details(["temperature", "thermostatOperatingState", "humidity", "thermostatMode", "thermostatFanMode", "nestPresence", "heatingSetpoint", "heatSliderControl", "coolingSetpoint", "coolSliderControl", "temperatureUnit", "refresh"])
-	//	 details(["temperature", "thermostatOperatingState", "humidity", "thermostatMode", "thermostatFanMode", "nestPresence", "heatingSetpointDown", "heatingSetpoint", "heatingSetpointUp", "coolingSetpointDown", "coolingSetpoint", "coolingSetpointUp", "temperatureUnit", "refresh"])
 
 		// ============================================================
 
